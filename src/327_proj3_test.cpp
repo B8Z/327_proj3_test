@@ -1,7 +1,7 @@
 //============================================================================
 // Name        : 327_proj3_test.cpp
-// Author      : 
-// Version     :
+// Author      : Adam Bates
+// Version     : Nov 2, 2019
 // Copyright   : Your copyright notice
 // Description : Hello World in C++, Ansi-style
 //============================================================================
